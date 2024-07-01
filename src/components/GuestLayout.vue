@@ -1,0 +1,3 @@
+<template>
+  Guest Layout
+</template>
